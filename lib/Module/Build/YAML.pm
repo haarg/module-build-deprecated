@@ -6,11 +6,7 @@ use base 'CPAN::Meta::YAML';
 
 1;
 
-__END__
-
-=head1 NAME
-
-Module::Build::YAML - DEPRECATED
+# ABSTRACT: DEPRECATED
 
 =head1 DESCRIPTION
 

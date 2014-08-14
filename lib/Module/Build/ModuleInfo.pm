@@ -9,13 +9,7 @@ use base 'Module::Metadata';
 
 1;
 
-__END__
-
-=for :stopwords ModuleInfo
-
-=head1 NAME
-
-Module::Build::ModuleInfo - DEPRECATED
+# ABSTRACT: DEPRECATED
 
 =head1 DESCRIPTION
 

@@ -7,11 +7,7 @@ use parent 'version';
 
 1;
 
-__END__
-
-=head1 NAME
-
-Module::Build::Version - DEPRECATED
+# ABSTRACT: DEPRECATED
 
 =head1 DESCRIPTION
 
