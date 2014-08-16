@@ -25,4 +25,6 @@ This has been replaced by L<CPAN::Meta::YAML>
 
 =back
 
+=cut
+
 1;
