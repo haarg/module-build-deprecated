@@ -1,4 +1,6 @@
 Revision history for Module-Build-Deprecated
 
 {{$NEXT}}
+
+0.001     2014-08-16 13:18:50+02:00 Europe/Amsterdam
           First release separate from Module::Build
