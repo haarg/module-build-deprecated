@@ -1,6 +1,8 @@
 Revision history for Module-Build-Deprecated
 
 {{$NEXT}}
+
+0.002     2014-08-16 13:29:21+02:00 Europe/Amsterdam
           Now with an indexable version
 
 0.001     2014-08-16 13:18:50+02:00 Europe/Amsterdam
