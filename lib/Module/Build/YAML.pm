@@ -3,6 +3,7 @@ package Module::Build::YAML;
 use strict;
 use warnings;
 use base 'CPAN::Meta::YAML';
+our $VERSION  = '1.41';
 
 1;
 

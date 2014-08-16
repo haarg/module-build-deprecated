@@ -4,6 +4,7 @@ use strict;
 use warnings;
 
 use parent 'version';
+our $VERSION = '0.87';
 
 1;
 
